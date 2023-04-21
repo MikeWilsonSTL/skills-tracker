@@ -31,7 +31,7 @@ public class SkillsController {
                     "<body>" +
                         "<form action='/formResults/{name}/{lang1}/{l1ng2}/{lang3}'>" +
                             "<h2>Name: <input type='text' name='name'></h2>" +
-                            "<table>" +
+                            "<table style=\"padding: 10px; margin: 10px; border: 1px solid;\">" +
                                 "<tr>" +
                                     "<th>---My Favorite Language---</th>" +
                                     "<th>---My 2nd Favorite Language---</th>" +
